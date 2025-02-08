@@ -37,5 +37,5 @@ CSS: For styling and responsiveness.
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
 
 <h3><b>License</b></h3>
-This project is open-source and available under the MIT License
+This project is open-source and available under the MIT License.
 
